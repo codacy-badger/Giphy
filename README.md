@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/ChristopheParadela/Giphy.svg?branch=master)](https://travis-ci.org/ChristopheParadela/Giphy)
+[![Coverage Status](https://coveralls.io/repos/github/ChristopheParadela/Giphy/badge.svg?branch=master)](https://coveralls.io/github/ChristopheParadela/Giphy?branch=master)
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/664344ecd7574afa9d5117baca2ffb0e)](https://www.codacy.com/app/christophe_neto/Giphy?utm_source=github.com&utm_medium=referral&utm_content=ChristopheParadela/Giphy&utm_campaign=Badge_Grade)
+
 # Giphy
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
